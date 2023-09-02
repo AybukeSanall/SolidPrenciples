@@ -1,0 +1,14 @@
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\bin\Debug\net6.0\SolidPrincipleProject.exe
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\bin\Debug\net6.0\SolidPrincipleProject.deps.json
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\bin\Debug\net6.0\SolidPrincipleProject.runtimeconfig.json
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\bin\Debug\net6.0\SolidPrincipleProject.dll
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\bin\Debug\net6.0\SolidPrincipleProject.pdb
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.AssemblyInfoInputs.cache
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.AssemblyInfo.cs
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.csproj.CoreCompileInputs.cache
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.dll
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\refint\SolidPrincipleProject.dll
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.pdb
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\SolidPrincipleProject.genruntimeconfig.cache
+C:\Users\aybuk\source\repos\SolidPrincipleProject\SolidPrincipleProject\obj\Debug\net6.0\ref\SolidPrincipleProject.dll
