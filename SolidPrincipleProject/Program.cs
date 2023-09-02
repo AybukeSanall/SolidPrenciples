@@ -1,7 +1,8 @@
-﻿using SolidPrincipleProject.SingleResponsiblityPrenciple.Services;
+﻿using SolidPrincipleProject.SingleResponsibility.Models;
+using SolidPrincipleProject.SingleResponsibility.Services;
 
 var bookService = new BookService();
-bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Book()
+bookService.Add(new Book
 {
     Id = Guid.NewGuid(),
     CreatedDate = DateTime.Now,
@@ -11,10 +12,10 @@ bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Bo
     Name = "Test Name",
     PageCount = 10,
     IsEBook = false,
-    Price=50
+    Price = 50
 });
 
-bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Book()
+bookService.Add(new Book
 {
     Id = Guid.NewGuid(),
     CreatedDate = DateTime.Now,
@@ -23,8 +24,8 @@ bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Bo
     Language = "tr",
     Name = "Book Book",
     PageCount = 20,
-    IsEBook= true,
-    Price=100
+    IsEBook = true,
+    Price = 100
 });
 
 foreach (var book in bookService.GetAll())
