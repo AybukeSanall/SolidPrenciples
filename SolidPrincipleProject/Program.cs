@@ -9,8 +9,11 @@ bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Bo
     Genre = "Test",
     Language = "en",
     Name = "Test Name",
-    PageCount = 10
+    PageCount = 10,
+    IsEBook = false,
+    Price=50
 });
+
 bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Book()
 {
     Id = Guid.NewGuid(),
@@ -19,12 +22,15 @@ bookService.Add(new SolidPrincipleProject.SingleResponsiblityPrenciple.Models.Bo
     Genre = "Test",
     Language = "tr",
     Name = "Book Book",
-    PageCount = 20
+    PageCount = 20,
+    IsEBook= true,
+    Price=100
 });
+
 foreach (var book in bookService.GetAll())
 {
     Console.WriteLine($"Registered: {book.CreatedDate}");
     Console.WriteLine($"Record Id: {book.Id}");
-    Console.WriteLine($"Name:  {book.Name}");
+    Console.WriteLine($"Book Name:  {book.Name}");
     Console.WriteLine("---------------------------------");
 }
