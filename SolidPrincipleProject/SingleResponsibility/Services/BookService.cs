@@ -1,6 +1,4 @@
 ﻿using SolidPrincipleProject.SingleResponsibility.Models;
-using SolidPrincipleProject.SingleResponsiblity.Services;
-
 namespace SolidPrincipleProject.SingleResponsibility.Services;
 
 public class BookService : IBookService

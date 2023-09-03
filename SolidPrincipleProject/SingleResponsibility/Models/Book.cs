@@ -9,4 +9,10 @@ public class Book : Base
     public string? Language { get; set; }
     public decimal Price { get; set; }
     public bool IsEBook { get; set; }
+    public virtual void DisplayInfo()
+    {
+        Console.WriteLine($"Title: {Name}");
+        Console.WriteLine($"Author: {Author}");
+        Console.WriteLine($"Price: {Price:C}");
+    }
 }
